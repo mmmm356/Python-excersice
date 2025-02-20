@@ -18,3 +18,4 @@ class Hotel: # i am defining a class
         object_2 = Hotel("sheraton", 1500, "Addis Ababa", "spa, meetin hall")
 
         print(object_1.viewHotelRooms())
+        
